@@ -38,7 +38,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 
 * **JavaScript**
   + [Angular Indonesia](https://t.me/AngularID)
-  + [Electron Desktop User Group](https://t.me/electronatom)
+  + [Electron Desktop User Group](https://t.me/electronatom)
   + [Ionic Indonesia](https://t.me/indonesiaionic)
   + [Nodejs Indonesia](https://t.me/nodejsid)
   + [NuxtJs Indonesia](https://t.me/nuxtjsid)
@@ -130,7 +130,7 @@ A list of awesome indonesia groups related to programming language on Telegram.
 ### Security
 * [Pentester Indonesia](https://t.me/PentesterIndonesia)
 * [Reversing.ID](https://t.me/reversingid)
-* [@ForensicaID](https://t.m/@ForensicaID)
+* [ForensicaID](https://t.me/ForensicaID)
 
 ### Windows
 * [Windows 10 Community ID](https://t.me/WinTenGroup)
